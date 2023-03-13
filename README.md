@@ -30,5 +30,4 @@
 </p>
 
 <p align="center">
-    <img width="45%" src="https://camo.githubusercontent.com/566fe2fa33ea9c39fa9ba0010e07418fac357c4a03d0db8afefe0c64bd11ad4f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d726974696b613732382673686f775f69636f6e733d74727565267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=LuckySingh9897&amp;show_icons=true&amp;theme=algolia" style="max-width: 100%;">
 </p>
