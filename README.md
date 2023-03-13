@@ -29,6 +29,6 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckySingh9897&show_icons=true&locale=en" alt="LuckySingh9897" />
 </p>
 
-<p align="right">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuckySingh9897&" alt="LuckySingh9897" />
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.herokuapp.com?user=LuckySingh9897"/></a>
 </p>
