@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, I'm Lucky Singh</h1>
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=622&lines=An+Passionate+Developer+from+India">
-</div >
+
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinbanerjee31&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinbanerjee31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuckySingh9897&label=Profile%20views&color=0e75b6&style=flat" alt="LuckySingh9897" /> </p>
 
 - 🔭 Third-year B.tech undergrad
 
