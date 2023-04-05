@@ -7,7 +7,7 @@
 
 - 🔭 Third-year B.tech undergrad
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Code and Anime**
 
