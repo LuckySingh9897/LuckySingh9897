@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuckySingh9897&label=Profile%20views&color=0e75b6&style=flat" alt="LuckySingh9897" /> </p>
 
-- 🔭 Third-year B.tech undergrad
+- 🔭 Final-Year B.tech undergrad
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.Js**
 
 - 💬 Ask me about **Code and Anime**
 
